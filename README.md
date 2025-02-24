@@ -1,2 +1,14 @@
-# who_nap_file_download
-Download of all NAP's found on the WHO website in the library of National Action Plans -  'https://www.who.int/teams/surveillance-prevention-control-AMR/national-action-plan-monitoring-evaluation/library-of-national-action-plans'
+# WHO National Action Plan Scraper 🏥📄
+
+## 📌 Overview
+This Python script scrapes the **World Health Organization (WHO) National Action Plan** page, extracts links to **national antimicrobial resistance (AMR) action plans**, and downloads them as **PDF files**.
+
+🔍 **Key Features:**
+- Automatically finds and downloads PDF documents.
+- Extracts valid links from WHO publication pages.
+- Handles dynamic links that do not directly reference PDFs.
+- Cleans file names to ensure compatibility.
+
+---
+
+
